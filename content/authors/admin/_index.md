@@ -14,7 +14,7 @@ role: A Lifelong Learner
 
 # Organizations/Affiliations
 organizations:
-#- name: ""
+- name: "wongc076@gmail.com"
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
